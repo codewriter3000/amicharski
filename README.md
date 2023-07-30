@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with experience in React, Svelte, Pega, Java, C, and Rust.
+I'm a developer with experience in Python, React, Svelte, Pega, Java, C, and Rust.
 
 
 
